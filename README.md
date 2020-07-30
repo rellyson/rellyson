@@ -11,7 +11,7 @@
 
 🔎 Looking to collaborate on Open Source projects. So, if you're interested or need some help, just check me in. 
 
-Other Social Medias 💬
+💬 Other Social Medias
 - https://dev.to/rellyson
 - https://gitlab.com/rellysonsilva
 - https://www.linkedin.com/in/rellysonsilva/
