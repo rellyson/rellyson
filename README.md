@@ -1,14 +1,15 @@
 ### Hi there 👋 Welcome to My Github profile.
 
-📚 Graduating in Information's systems at PUC Minas.
+
+
+
+📚 Graduating in Information's systems at PUC Minas. I have plans to graduate in Software Engineering as well.
 
 💻 Full Stack Developer currently working on @licentiadigital. This plataform was built using microservices architecture and technologies like GraphQL, Nodejs, Ruby on Rails and Docker.
 
 🐧 A Linux passionate user.
 
 🔎 Looking to collaborate on Open Source projects. So, if you're interested and need some help, just check me in. 
-
-🏔 Nature and sport lover (A crush on Mountain Bike).
 
 Other Social Medias 💬
 - https://dev.to/rellyson
