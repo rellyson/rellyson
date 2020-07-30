@@ -1,7 +1,8 @@
 ### Hi there 👋 Welcome to My Github profile.
 
 
-👨‍💻 I'm 23 years old, Living at Belo Horizonte and crazy about technology.
+
+👨‍💻 I'm 23 years old, living at Belo Horizonte and crazy about technology.
 
 📚 Graduating in Information's systems at PUC Minas. I have plans to graduate in **Software Engineering** as well.
 
