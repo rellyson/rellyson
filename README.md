@@ -13,19 +13,19 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Linux" width="24px" src="https://pngimg.com/uploads/linux/linux_PNG1.png" />
-<img align="left" alt="Nodejs" width="26px" src="https://icon-library.com/images/js-icon/js-icon-13.jpg" />
-<img align="left" alt="Typescript" width="26px" src="https://img2.pngio.com/getting-started-with-typescript-onejohi-medium-typescript-png-816_816.png" />
-<img align="left" alt="Nestjs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
-<img align="left" alt="expressjs" width="26px" src="https://cdn.glitch.com/project-avatar/fa1f1a9a-054c-42b2-93ab-83ec4f40695d.png?2017-09-13T18:38:00.967Z" />
-<img align="left" alt="Postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
-<img align="left" alt="Mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" />
-<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
-<img align="left" alt="Graphql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
-<img align="left" alt="Ruby on Rails" width="26px" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png" />
-<img align="left" alt="Docker" width="26px" src="https://bluesoft.com.br/wp-content/uploads/2020/05/logotech8.png" />
-<img align="left" alt="Ansible" width="26px" src="https://d2.alternativeto.net/dist/icons/ansible_71647.png?width=64&height=64&mode=crop&upscale=false" />
-<img align="left" alt="Python" width="26px" src="http://www.pngmart.com/files/7/Python-PNG-File.png" />
+<img align="left" alt="Linux" width="28px" src="https://pngimg.com/uploads/linux/linux_PNG1.png" />
+<img align="left" alt="Nodejs" width="40px" src="https://icon-library.com/images/js-icon/js-icon-13.jpg" />
+<img align="left" alt="Typescript" width="40px" src="https://img2.pngio.com/getting-started-with-typescript-onejohi-medium-typescript-png-816_816.png" />
+<img align="left" alt="Nestjs" width="40px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
+<img align="left" alt="expressjs" width="40px" src="https://cdn.glitch.com/project-avatar/fa1f1a9a-054c-42b2-93ab-83ec4f40695d.png?2017-09-13T18:38:00.967Z" />
+<img align="left" alt="Postgresql" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
+<img align="left" alt="Mongodb" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" />
+<img align="left" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
+<img align="left" alt="Graphql" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
+<img align="left" alt="Ruby on Rails" width="40px" src="https://www.kindpng.com/picc/m/12-120961_logo-ruby-on-rails-hd-png-download.png" />
+<img align="left" alt="Docker" width="40px" src="https://bluesoft.com.br/wp-content/uploads/2020/05/logotech8.png" />
+<img align="left" alt="Ansible" width="40px" src="https://d2.alternativeto.net/dist/icons/ansible_71647.png?width=64&height=64&mode=crop&upscale=false" />
+<img align="left" alt="Python" width="40px" src="http://www.pngmart.com/files/7/Python-PNG-File.png" />
 
 
 <br /><br />
