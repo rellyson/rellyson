@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to My Github profile.
+## Welcome to My Github profile <img height="30" src="https://i.imgur.com/yYqn19R.gif" />
 
 ### About Me
 👨‍💻 23 years old, living at Belo Horizonte,MG and crazy about technology.
@@ -11,8 +11,9 @@
 
 🔎 Looking to collaborate on Open Source projects. So, if you're interested or need some help, just check me in. 
 
-### Technologies and frameworks
+### Languages and Tools
 
+<img align="left" alt="Linux" width="24px" src="https://pngimg.com/uploads/linux/linux_PNG1.png" />
 <img align="left" alt="Nodejs" width="26px" src="https://icon-library.com/images/js-icon/js-icon-13.jpg" />
 <img align="left" alt="Typescript" width="26px" src="https://img2.pngio.com/getting-started-with-typescript-onejohi-medium-typescript-png-816_816.png" />
 <img align="left" alt="Nestjs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
