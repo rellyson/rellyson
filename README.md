@@ -1,5 +1,4 @@
 ## Hi there 👋 Welcome to My Github profile.
-<br />
 
 ### About Me
 👨‍💻 23 years old, living at Belo Horizonte,MG and crazy about technology.
