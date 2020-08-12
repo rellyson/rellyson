@@ -13,7 +13,6 @@
 
 ### Technologies and frameworks
 
-<img align="left" alt="Python" width="26px" src="http://www.pngmart.com/files/7/Python-PNG-File.png" />
 <img align="left" alt="Nodejs" width="26px" src="https://icon-library.com/images/js-icon/js-icon-13.jpg" />
 <img align="left" alt="Typescript" width="26px" src="https://img2.pngio.com/getting-started-with-typescript-onejohi-medium-typescript-png-816_816.png" />
 <img align="left" alt="Nestjs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
@@ -25,6 +24,7 @@
 <img align="left" alt="Ruby on Rails" width="26px" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png" />
 <img align="left" alt="Docker" width="26px" src="https://bluesoft.com.br/wp-content/uploads/2020/05/logotech8.png" />
 <img align="left" alt="Ansible" width="26px" src="https://d2.alternativeto.net/dist/icons/ansible_71647.png?width=64&height=64&mode=crop&upscale=false" />
+<img align="left" alt="Python" width="26px" src="http://www.pngmart.com/files/7/Python-PNG-File.png" />
 
 
 <br /><br />
