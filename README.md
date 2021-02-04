@@ -5,7 +5,7 @@
 
 📚 Graduating in Information's Systems at PUC Minas. I have plans to graduate in **Software Engineering** as well.
 
-💻 Full Stack Developer currently working on **@waycarbon**. 
+💻 Full Stack Developer currently working on **@u4crypto**. 
 
 🐧 A Linux passionate user.
 
@@ -16,7 +16,6 @@
 <img align="left" alt="Nodejs" width="40px" src="https://icon-library.com/images/js-icon/js-icon-13.jpg" />
 <img align="left" alt="Typescript" width="40px" src="https://img2.pngio.com/getting-started-with-typescript-onejohi-medium-typescript-png-816_816.png" />
 <img align="left" alt="Python" width="40px" src="http://www.pngmart.com/files/7/Python-PNG-File.png" />
-<img align="left" alt="Ruby on Rails" width="40px" src="https://miro.medium.com/max/400/0*hbmyPCa0Nv_YEgaS.png" />
 <img align="left" alt="Reactjs" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="Postgresql" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
