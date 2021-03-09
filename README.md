@@ -7,11 +7,12 @@
 ### About Me
 
 ``` Typescript
-  class Rellyson {
+  class Rellyson implements CleanCode {
       public name: string;
       public age: number;
       public degree: string;
       public work: string;
+      public favoriteTopics: [];
       public hobbies: [];
       public languagesAndTools: [];
       
@@ -20,6 +21,14 @@
         this.age = 23;
         this.degree = 'Graduating in Informations System at PUC Minas';
         this.work = 'Full Stack developer, currently working at U4crypto';
+        this.favoriteTopics = [
+        'Software architecture',
+        'Clean Code',
+        'Test-Driven development',
+        'Domain-Driven design',
+        'Clean architecture',
+        'SOLID'
+        ];
         this.hobbies = [
           'Linux passionate user',
           'Open source project entusiast',
