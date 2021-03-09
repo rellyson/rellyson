@@ -27,12 +27,13 @@
         'Test-Driven development',
         'Domain-Driven design',
         'Clean architecture',
-        'SOLID'
+        'SOLID principles'
         ];
         this.hobbies = [
-          'Linux passionate user',
-          'Open source project entusiast',
-          'I love riding bike on weekends',
+          'Linux passionate user 🐧',
+          'Open source project enthusiast 🔓',
+          'I love family moments 🥰',
+          'Moutain biking 🚵‍♂️'
         ];
         this.languagesAndTools = [
         'Nodejs',
@@ -42,7 +43,7 @@
         'Angularjs',
         'Postgresql',
         'Mongodb',
-        'Graphql,
+        'Graphql',
         'Docker',
         'Linux'
         ];
