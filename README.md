@@ -19,7 +19,7 @@
       private constructor() {
         this.name = 'Rellyson Silva';
         this.age = 23;
-        this.degree = 'Graduating in Informations System at PUC Minas';
+        this.degree = 'Graduating in Information Systems at PUC Minas';
         this.work = 'Full Stack developer, currently working at U4crypto';
         this.favoriteTopics = [
         'Software architecture',
