@@ -30,8 +30,8 @@
         this.hobbies = [
           'Linux passionate user 🐧',
           'Open source project enthusiast 🔓',
-          'I love family moments 🥰',
-          'Moutain biking 🚵‍♂️'
+          'Love family moments 🥰',
+          'Trip Lover ✈️'
         ];
         this.languagesAndTools = [
         'Nodejs',
