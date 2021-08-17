@@ -2,43 +2,50 @@
 
 [![Gitlab Badge](https://img.shields.io/static/v1?message=rellyson&logo=gitlab&labelColor=FF5214&color=FF5214&logoColor=white&label=%20)](https://gitlab.com/rellyson)
 [![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/) 
-[![Gmail Badge](https://img.shields.io/static/v1?message=rellysonsilva@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:rellysonsilva@gmail.com)
-
+[![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@protonmail.com&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellysonsilva@gmail.com)
 ## About Me
 
 ``` Typescript
   class Rellyson implements CleanCode {
       private name: string;
       private age: number;
-      private degree: string;
+      private degree: [];
       private work: string;
       private favoriteTopics: [];
       private hobbies: [];
       private languagesAndTools: [];
       
       private constructor() {
-        this.name = 'Rellyson Silva';
+        this.name = 'Rellyson Vinicius Rodrigues da Silva';
         this.age = 24;
-        this.degree = 'Bachelors degree in Computer Information Systems';
-        this.work = 'Currently working as Backend developer at @AmeDigital';
+        this.degree = [
+        'Bachelors degree in Computer Information Systems',
+        'Graduate degree in Distributed Software Architecture',
+        ];
+        this.work = 'Currently working as Backend developer at @BitCapital';
         this.favoriteTopics = [
-        'Software architecture',
+        'Software architecture/design',
         'Software Enginnering',
         'Devops',
-        'Cloud Native'
+        'Security'
         ];
         this.hobbies = [
           'Linux passionate user 🐧',
           'Open source project enthusiast 🔓',
           'Love family moments 🥰',
-          'Trip Lover ✈️'
+          'Trip Lover ✈️',
+          'Headbanger 🤘'
         ];
         this.languagesAndTools = [
         'Nodejs',
+        'Java',
         'Python',
         'Postgresql',
         'Mongodb',
-        'Graphql',
+        'GraphQL',
+        'REST',
+        'gRpc',
+        'Message Brokers',
         'Docker',
         'Kubernetes',
         'Linux'
