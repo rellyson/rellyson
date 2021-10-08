@@ -42,6 +42,7 @@
         'Nodejs',
         'Java',
         'Python',
+        'Go',
         'Postgresql',
         'Mongodb',
         'GraphQL',
@@ -50,7 +51,8 @@
         'Message Brokers',
         'Docker',
         'Kubernetes',
-        'Linux'
+        'Linux',
+        'Devops culture'
         ];
       }
   }
