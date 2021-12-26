@@ -40,9 +40,9 @@
         ];
         this.languagesAndTools = [
         'Nodejs',
-        'Java',
         'Python',
-        'Go',
+        'Rust',
+        'Golang',
         'Postgresql',
         'Mongodb',
         'GraphQL',
@@ -60,5 +60,5 @@
 ```
 
 ## Github metrics
-![Rellyson github stats](https://github-readme-stats.vercel.app/api?username=rellyson&hide=["issues"]&&theme=react)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rellyson&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
+![Rellyson github stats](https://github-readme-stats.vercel.app/api?username=rellyson&theme=ocean_dark&show_icons=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rellyson&hide=scss,css,html&langs_count=8&layout=compact&theme=ocean_dark)
