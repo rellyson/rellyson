@@ -1,6 +1,6 @@
 # Hi, folks! 👋🏽
 
-![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=rellyson.rellyson)
+![Visitors Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rellyson.rellyson)
 [![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@proton.me&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellyson@proton.me)
 [![Gitlab Badge](https://img.shields.io/static/v1?message=rellyson&logo=gitlab&labelColor=FF5214&color=FF5214&logoColor=white&label=%20)](https://gitlab.com/rellyson)
 [![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/)
