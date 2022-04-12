@@ -1,64 +1,54 @@
-# Rellyson Silva 🧑🏽‍💻📘
+# Hi, folks! 👋🏽
 
+![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=rellyson.rellyson)
+[![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@proton.me&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellyson@proton.me)
 [![Gitlab Badge](https://img.shields.io/static/v1?message=rellyson&logo=gitlab&labelColor=FF5214&color=FF5214&logoColor=white&label=%20)](https://gitlab.com/rellyson)
 [![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/)
 [![devto Badge](https://img.shields.io/static/v1?message=rellyson&logo=dev.to&labelColor=0f0f0f&color=0f0f0f&logoColor=white&label=%20)](https://dev.to.com/rellyson)
-[![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@protonmail.com&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellyson@protonmail.com)
 
-## About Me
+## Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-1c1c1c?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-1c1c1c?style=flat-square&logo=Node.js)
+![Golang](https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-663518?style=flat-square&logo=rust)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![RabbitMQ](https://img.shields.io/badge/-Rabbitmq-9e4b1b?style=flat-square&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-1c1c1c?style=flat-square&logo=apache-kafka)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1c1c1c?style=flat-square&logo=mongodb)
+![Neo4j](https://img.shields.io/badge/-Neo4j-29385c?style=flat-square&logo=neo4j)
+![Redis](https://img.shields.io/badge/-Redis-1c1c1c?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-294d5c?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-1c1c1c?style=flat-square&logo=mysql)
+![Datadog](https://img.shields.io/badge/-Datadog-49295c?style=flat-square&logo=datadog)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Docker](https://img.shields.io/badge/-Docker-1c1c1c?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1c1c1c?style=flat-square&logo=kubernetes)
+![Helm](https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 
-``` Typescript
-  class Rellyson implements CleanCode {
-      private name: string;
-      private age: number;
-      private degree: [];
-      private work: string;
-      private favoriteTopics: [];
-      private hobbies: [];
-      private languagesAndTools: [];
-      
-      private constructor() {
-        this.name = 'Rellyson Vinicius Rodrigues da Silva';
-        this.age = 24;
-        this.degree = [
-        'Bachelors degree in Computer Information Systems',
-        'Graduate degree in Distributed Software Architecture',
-        ];
-        this.work = 'Currently working as Backend developer at @BitCapital (AME Digital)';
-        this.favoriteTopics = [
-        'Software architecture/design',
-        'Software Enginnering',
-        'Devops',
-        'Security'
-        ];
-        this.hobbies = [
-          'Linux passionate user 🐧',
-          'Open source project enthusiast 🔓',
-          'Love family moments 🥰',
-          'Trip Lover ✈️',
-          'Headbanger 🤘'
-        ];
-        this.languagesAndTools = [
-        'Nodejs',
-        'Python',
-        'Rust',
-        'Golang',
-        'Postgresql',
-        'Mongodb',
-        'GraphQL',
-        'REST',
-        'gRpc',
-        'Message Brokers',
-        'Docker',
-        'Kubernetes',
-        'Linux',
-        'Devops culture'
-        ];
-      }
-  }
+## About Me 🤔
 
-```
+I'm 24 years old, bachelor's degree in Computer Information Systems and graduate degree in Distributed Software Architecture. I currently work as a Software Engineer but I want to make a transition to Software Architecture.
 
-## Github metrics
-![Rellyson github stats](https://github-readme-stats.vercel.app/api?username=rellyson&theme=ocean_dark&show_icons=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rellyson&hide=scss,css,html&langs_count=8&layout=compact&theme=ocean_dark)
+Technology and computers are in my life from an early age, I got my first computer when I was 9 years old. Since then, my contact and passion with technology is 24/7.
+My favorite technology topics are:
+- Software architecture/design 🏗️
+- Software Enginnering 📜
+- Devops ⚙️
+- Security 🔐
+
+Five facts about me:
+- Linux passionate user 🐧
+- Open source project enthusiast 🔓
+- Love family moments 🥰
+- Trip Lover ✈️
+- Headbanger 🤘
+
+## Github Stats 🗠
+<div align="center" width="100%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rellyson&hide=scss,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rellyson&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</div>
