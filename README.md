@@ -29,9 +29,9 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 
-## About Me 🤔
+## About me 🤔
 
-I'm 24 years old, bachelor's degree in Computer Information Systems and graduate degree in Distributed Software Architecture. I currently work as a Software Engineer but I want to make a transition to Software Architecture.
+I'm 25 years old, bachelor's degree in Computer Information Systems and graduate degree in Distributed Software Architecture. I currently work as a Software Engineer but I want to make a transition to Software Architecture.
 
 Technology and computers are in my life from an early age, I got my first computer when I was 9 years old. Since then, my contact and passion with technology is 24/7.
 My favorite technology topics are:
@@ -47,7 +47,11 @@ Five facts about me:
 - Trip Lover ✈️
 - Headbanger 🤘
 
-## Github Stats 🗠
+## Latest published articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Github stats 🗠
 <div align="center" width="100%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rellyson&hide=scss,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rellyson&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
