@@ -49,6 +49,8 @@ Five facts about me:
 
 ## Latest published articles
 <!-- BLOG-POST-LIST:START -->
+- [Test Doubles: Replacing real objects for testing](https://dev.to/rellyson/test-doubles-replacing-real-objects-for-testing-2pfg)
+- [Abstract class vs interfaces. When to use them?](https://dev.to/rellyson/abstract-class-vs-interfaces-when-to-use-them-1d68)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github stats 🗠
