@@ -7,11 +7,12 @@
 [![devto Badge](https://img.shields.io/static/v1?message=rellyson&logo=dev.to&labelColor=0f0f0f&color=0f0f0f&logoColor=white&label=%20)](https://dev.to.com/rellyson)
 
 ## Technologies
-![TypeScript](https://img.shields.io/badge/-TypeScript-1c1c1c?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-1c1c1c?style=flat-square&logo=Node.js)
 ![Golang](https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-663518?style=flat-square&logo=rust)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![RabbitMQ](https://img.shields.io/badge/-Rabbitmq-9e4b1b?style=flat-square&logo=rabbitmq)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-1c1c1c?style=flat-square&logo=apache-kafka)
