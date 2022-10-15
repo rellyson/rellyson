@@ -1,20 +1,21 @@
-# Hi, folks! 👋🏽
+# Hi, visitor! 👋🏽
 
 ![Visitors Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rellyson.rellyson)
 [![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@proton.me&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellyson@proton.me)
 [![Gitlab Badge](https://img.shields.io/static/v1?message=rellyson&logo=gitlab&labelColor=FF5214&color=FF5214&logoColor=white&label=%20)](https://gitlab.com/rellyson)
-[![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/)
+[![Github Badge](https://img.shields.io/static/v1?message=rellyson&logo=github&labelColor=333&color=333&logoColor=white&label=%20)](https://github.com/rellyson)
 [![devto Badge](https://img.shields.io/static/v1?message=rellyson&logo=dev.to&labelColor=0f0f0f&color=0f0f0f&logoColor=white&label=%20)](https://dev.to.com/rellyson)
+[![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/)
 
 ## Technologies
 ![Nodejs](https://img.shields.io/badge/-Nodejs-1c1c1c?style=flat-square&logo=Node.js)
 ![Golang](https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-663518?style=flat-square&logo=rust)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir)
+![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=Python)
+![Cpp](https://img.shields.io/badge/-C/C++-1c478c?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=jvm)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![RabbitMQ](https://img.shields.io/badge/-Rabbitmq-9e4b1b?style=flat-square&logo=rabbitmq)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-9e4b1b?style=flat-square&logo=rabbitmq)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-1c1c1c?style=flat-square&logo=apache-kafka)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1c1c1c?style=flat-square&logo=mongodb)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-29385c?style=flat-square&logo=neo4j)
@@ -23,18 +24,25 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-1c1c1c?style=flat-square&logo=mysql)
 ![Datadog](https://img.shields.io/badge/-Datadog-49295c?style=flat-square&logo=datadog)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Wasm](https://img.shields.io/badge/-WebAssembly-2e2a61?style=flat-square&logo=webassembly)
 ![Docker](https://img.shields.io/badge/-Docker-1c1c1c?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-1c1c1c?style=flat-square&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm)
+![Terraform](https://img.shields.io/badge/-Terraform-473dba?style=flat-square&logo=terraform)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-004589?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![Ansible](https://img.shields.io/badge/-Ansible-333?style=flat-square&logo=ansible)
+![ELK](https://img.shields.io/badge/-Elastic%20Stack-e046b7?style=flat-square&logo=elasticstack)
+![Grafana](https://img.shields.io/badge/-Grafana-1c191b?style=flat-square&logo=grafana)
 
 ## About me 🤔
 
-I'm 25 years old, bachelor's degree in Computer Information Systems and graduate degree in Distributed Software Architecture. I currently work as a Software Engineer but I want to make a transition to Software Architecture.
+I'm 25 years old, bachelor's degree in Computer Information Systems and specializing in Distributed Software Architecture, currently work as Software Architect.
 
 Technology and computers are in my life from an early age, I got my first computer when I was 9 years old. Since then, my contact and passion with technology is 24/7.
+
 My favorite technology topics are:
 - Software architecture/design 🏗️
 - Software Enginnering 📜
@@ -44,7 +52,7 @@ My favorite technology topics are:
 Five facts about me:
 - Linux passionate user 🐧
 - Open source project enthusiast 🔓
-- Love family moments 🥰
+- Football ⚽
 - Trip Lover ✈️
 - Headbanger 🤘
 
