@@ -1,4 +1,4 @@
-# Hi mate! 🤝🏽
+# Hey, mate! 🤝🏽
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson&label=Visitors&labelColor=%2328204d&countColor=%231a1919&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson)
 [![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@proton.me&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellyson@proton.me)
