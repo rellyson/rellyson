@@ -1,6 +1,6 @@
 # Hi, visitor! 👋🏽
 
-![Visitors Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rellyson.rellyson)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson&label=Visitors&labelColor=%2328204d&countColor=%231a1919&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson)
 [![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@proton.me&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellyson@proton.me)
 [![Gitlab Badge](https://img.shields.io/static/v1?message=rellyson&logo=gitlab&labelColor=FF5214&color=FF5214&logoColor=white&label=%20)](https://gitlab.com/rellyson)
 [![Github Badge](https://img.shields.io/static/v1?message=rellyson&logo=github&labelColor=333&color=333&logoColor=white&label=%20)](https://github.com/rellyson)
@@ -10,10 +10,9 @@
 ## Technologies
 ![Nodejs](https://img.shields.io/badge/-Nodejs-1c1c1c?style=flat-square&logo=Node.js)
 ![Golang](https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-663518?style=flat-square&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-663518?style=flat-square&logo=rust)
 ![Cpp](https://img.shields.io/badge/-C/C++-1c478c?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=jvm)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-9e4b1b?style=flat-square&logo=rabbitmq)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-1c1c1c?style=flat-square&logo=apache-kafka)
@@ -22,9 +21,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-1c1c1c?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-294d5c?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-1c1c1c?style=flat-square&logo=mysql)
-![Datadog](https://img.shields.io/badge/-Datadog-49295c?style=flat-square&logo=datadog)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Wasm](https://img.shields.io/badge/-WebAssembly-2e2a61?style=flat-square&logo=webassembly)
 ![Docker](https://img.shields.io/badge/-Docker-1c1c1c?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-1c1c1c?style=flat-square&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm)
@@ -35,15 +32,16 @@
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 ![Ansible](https://img.shields.io/badge/-Ansible-333?style=flat-square&logo=ansible)
 ![ELK](https://img.shields.io/badge/-Elastic%20Stack-e046b7?style=flat-square&logo=elasticstack)
+![Datadog](https://img.shields.io/badge/-Datadog-49295c?style=flat-square&logo=datadog)
 ![Grafana](https://img.shields.io/badge/-Grafana-1c191b?style=flat-square&logo=grafana)
 
 ## About me 🤔
 
-I'm 25 years old, bachelor's degree in Computer Information Systems and specializing in Distributed Software Architecture, currently work as Software Architect.
+I'm 25 years old, born and raised in Belo Horizonte, Brazil. I have a BSc CIS and a Graduate Degree in Distributed Software Architecture. I'm currently working as a Senior Software Engineer.
 
-Technology and computers are in my life from an early age, I got my first computer when I was 9 years old. Since then, my contact and passion with technology is 24/7.
+Technology and computers are in my life from an early age. I got my first computer when I was 9 years old. Since then, my contact and passion for technology has become a daily task.
 
-My favorite technology topics are:
+My favorite tech topics are:
 - Software architecture/design 🏗️
 - Software Enginnering 📜
 - Devops ⚙️
@@ -52,8 +50,8 @@ My favorite technology topics are:
 Five facts about me:
 - Linux passionate user 🐧
 - Open source project enthusiast 🔓
-- Football ⚽
-- Trip Lover ✈️
+- Crazy for football ⚽
+- History Lover 📖
 - Headbanger 🤘
 
 ## Latest published articles
