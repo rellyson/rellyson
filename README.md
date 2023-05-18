@@ -1,4 +1,6 @@
-# Hey, mate! 🤝🏽
+<div align="center">
+<img src="https://media.tenor.com/EJ5ezT8nTdoAAAAC/hello-there-obi-wan.gif" />
+<br/><br/>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson&label=Visitors&labelColor=%2328204d&countColor=%231a1919&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson)
 [![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@proton.me&logo=protonmail&labelColor=616191&color=616191&logoColor=white&label=%20)](mailto:rellyson@proton.me)
@@ -6,6 +8,7 @@
 [![Github Badge](https://img.shields.io/static/v1?message=rellyson&logo=github&labelColor=333&color=333&logoColor=white&label=%20)](https://github.com/rellyson)
 [![devto Badge](https://img.shields.io/static/v1?message=rellyson&logo=dev.to&labelColor=0f0f0f&color=0f0f0f&logoColor=white&label=%20)](https://dev.to.com/rellyson)
 [![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/)
+</div>
 
 ## Technologies
 ![Nodejs](https://img.shields.io/badge/-Nodejs-1c1c1c?style=flat-square&logo=Node.js)
@@ -26,6 +29,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-1c1c1c?style=flat-square&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm)
 ![Terraform](https://img.shields.io/badge/-Terraform-473dba?style=flat-square&logo=terraform)
+![Packer](https://img.shields.io/badge/-Packer-1a1a1a?style=flat-square&logo=packer)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-004589?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -37,13 +41,13 @@
 
 ## About me 🤔
 
-I'm 25 years old, born and raised in Belo Horizonte, Brazil. I have a BSc CIS and a Graduate Degree in Distributed Software Architecture. I'm currently working as a Senior Software Engineer.
+I'm 26 years old, born and raised in Belo Horizonte, Brazil. I have a BSc CIS and a Graduate Degree in Distributed Software Architecture. I'm currently working as a Senior Software Engineer.
 
 Technology and computers are in my life from an early age. I got my first computer when I was 9 years old. Since then, my contact and passion for technology has become a daily task.
 
 My favorite tech topics are:
 - Software architecture/design 🏗️
-- Software Enginnering 📜
+- Platform Enginnering 🖧
 - Devops ⚙️
 - Security 🔐
 
