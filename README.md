@@ -7,6 +7,7 @@
 [![Gitlab Badge](https://img.shields.io/static/v1?message=rellyson&logo=gitlab&labelColor=FF5214&color=FF5214&logoColor=white&label=%20)](https://gitlab.com/rellyson)
 [![Github Badge](https://img.shields.io/static/v1?message=rellyson&logo=github&labelColor=333&color=333&logoColor=white&label=%20)](https://github.com/rellyson)
 [![devto Badge](https://img.shields.io/static/v1?message=rellyson&logo=dev.to&labelColor=0f0f0f&color=0f0f0f&logoColor=white&label=%20)](https://dev.to.com/rellyson)
+[![HF Badge](https://img.shields.io/static/v1?message=rellyson&labelColor=F5AC25&color=333&label=HF)](https://huggingface.co/rellyson)
 [![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/)
 </div>
 
