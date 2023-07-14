@@ -3,7 +3,7 @@
 <br/><br/>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson&label=Visitors&labelColor=%2328204d&countColor=%231a1919&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson)
-[![Protonmail Badge](https://img.shields.io/static/v1?message=rellyson@protonmail.com&logo=protonmail&labelColor=6d4aff&color=6d4aff&logoColor=white&label=%20)](mailto:rellyson@protonmail.com)
+[![Gmail Badge](https://img.shields.io/static/v1?message=rellysonsilva@gmail.com&logo=gmail&labelColor=C71610&color=C71610&logoColor=white&label=%20)](mailto:rellysonsilva@gmail.com)
 [![Gitlab Badge](https://img.shields.io/static/v1?message=rellyson&logo=gitlab&labelColor=FF5214&color=FF5214&logoColor=white&label=%20)](https://gitlab.com/rellyson)
 [![Github Badge](https://img.shields.io/static/v1?message=rellyson&logo=github&labelColor=333&color=333&logoColor=white&label=%20)](https://github.com/rellyson)
 [![devto Badge](https://img.shields.io/static/v1?message=rellyson&logo=dev.to&labelColor=0f0f0f&color=0f0f0f&logoColor=white&label=%20)](https://dev.to.com/rellyson)
