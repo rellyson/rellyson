@@ -5,8 +5,8 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson&label=Visitors&labelColor=%2328204d&countColor=%231a1919&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frellyson%2Frellyson)
 [![Gmail Badge](https://img.shields.io/static/v1?message=rellysonsilva@gmail.com&logo=gmail&labelColor=C71610&color=C71610&logoColor=white&label=%20)](mailto:rellysonsilva@gmail.com)
 [![Github Badge](https://img.shields.io/static/v1?message=rellyson&logo=github&labelColor=333&color=333&logoColor=white&label=%20)](https://github.com/rellyson)
+[![hashnode Badge](https://img.shields.io/static/v1?message=rellyson&logo=hashnode&labelColor=0f0f0f&color=0f0f0f&logoColor=3693FF&label=%20)](https://rellyson.hashnode.dev/)
 [![devto Badge](https://img.shields.io/static/v1?message=rellyson&logo=dev.to&labelColor=0f0f0f&color=0f0f0f&logoColor=white&label=%20)](https://dev.to.com/rellyson)
-[![github-page](https://img.shields.io/static/v1?message=rellyson.github.io&logo=github-pages&labelColor=523b6b&color=523b6b&logoColor=white&label=%20)](https://rellyson.github.io)
 [![Linkedin Badge](https://img.shields.io/static/v1?message=rellysonsilva&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/rellysonsilva/)
 </div>
 
