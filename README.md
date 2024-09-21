@@ -44,7 +44,7 @@
 
 ## About me 🤔
 
-I'm 26 years old, born and raised in Belo Horizonte, Brazil. I have a BSc CIS and a Graduate Degree in Distributed Software Architecture. I'm currently working as a Senior Software Developer.
+I'm 27 years old, born and raised in Belo Horizonte, Brazil. I have a BSc CIS and a Graduate Degree in Distributed Software Architecture. I'm currently working as a Senior Software Developer.
 Computing is in my life since I was a boy. I got my first computer when I was 9 years old. Since then, my passion for technology has become a daily task.
 
 My favorite topics are:
