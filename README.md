@@ -12,8 +12,8 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=Python)
 ![Golang](https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-1c1c1c?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-1c1c1c?style=flat-square&logo=openjdk)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
@@ -44,7 +44,7 @@
 
 ## About me 🤔
 
-I'm 27 years old, born and raised in Belo Horizonte, Brazil. I have a BSc CIS and a Graduate Degree in Distributed Software Architecture. I'm currently working as a Senior Software Developer.
+I'm 28 years old, born and raised in Belo Horizonte, Brazil. I have a BSc CIS and a Graduate Degree in Distributed Software Architecture. I'm currently working as a Senior Software Engineer.
 Computing is in my life since I was a boy. I got my first computer when I was 9 years old. Since then, my passion for technology has become a daily task.
 
 My favorite topics are:
